@@ -55,7 +55,11 @@ pip install -r requirements.txt
 ### 1. Run the Development Server
 
 ```bash
-python manage.py runserver
+cd backend && python manage.py runserver
+```
+
+```bash
+cd frontend && npm run dev
 ```
 
 The server will start at `http://127.0.0.1:8000/`
