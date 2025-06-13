@@ -12,6 +12,9 @@ Key features:
 
 The goal is to enable dynamic, interactive report creation with minimal technical complexity for end-users.
 
+![alt text](https://drive.google.com/file/d/1PJVDT1p-sApetmDW7WBzvv0ysKBmrXp6/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1AFBwmFatCHUGCwk9s8kBNTEUawSI1Hk7/view?usp=sharing)
+
 ## Installation
 
 ### 1. Clone the Repository
