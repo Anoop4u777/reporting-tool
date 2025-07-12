@@ -1,6 +1,6 @@
-# reporting-tool-tetrix
+# reporting-tool
 
-This is a full-stack reporting tool built as part of a take-home assignment from Tetrix. The application allows users to create custom report layouts in a no-code editor format, supporting components like text blocks, tables, and charts.
+This is a full-stack reporting tool built as part of a take-home assignment. The application allows users to create custom report layouts in a no-code editor format, supporting components like text blocks, tables, and charts.
 
 Key features:
 
@@ -17,7 +17,7 @@ The goal is to enable dynamic, interactive report creation with minimal technica
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Anoop4u777/reporting-tool-tetrix
+git clone https://github.com/Anoop4u777/reporting-tool
 ```
 
 ### 2. Set Up Virtual Environment
